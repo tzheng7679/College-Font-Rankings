@@ -1,0 +1,151 @@
+institution.displayName,ranking.sortRank,ranking.isTied,Visit School Website
+Princeton University,1,False,http://www.princeton.edu
+Massachusetts Institute of Technology,2,False,http://web.mit.edu/
+Harvard University,3,True,http://www.harvard.edu/
+Stanford University,3,True,http://www.stanford.edu
+Yale University,5,False,http://www.yale.edu/
+University of Pennsylvania,6,False,http://www.upenn.edu
+California Institute of Technology,7,True,http://www.caltech.edu
+Duke University,7,True,http://www.duke.edu/
+Brown University,9,True,https://www.brown.edu
+Johns Hopkins University,9,True,http://www.jhu.edu
+Northwestern University,9,True,http://www.northwestern.edu
+Columbia University,12,True,http://www.columbia.edu
+Cornell University,12,True,http://www.cornell.edu
+University of Chicago,12,True,http://www.uchicago.edu
+"University of California, Berkeley",15,True,https://www.berkeley.edu
+"University of California, Los Angeles",15,True,http://www.ucla.edu/
+Rice University,17,False,http://www.rice.edu
+Dartmouth College,18,True,http://www.dartmouth.edu
+Vanderbilt University,18,True,http://www.vanderbilt.edu
+University of Notre Dame,20,False,http://www.nd.edu
+University of Michigan--Ann Arbor,21,False,//umich.edu
+Georgetown University,22,True,http://www.georgetown.edu
+University of North Carolina at Chapel Hill,22,True,http://www.unc.edu
+Carnegie Mellon University,24,True,http://www.cmu.edu
+Emory University,24,True,http://www.emory.edu
+University of Virginia,24,True,http://www.virginia.edu
+Washington University in St. Louis,24,True,https://www.wustl.edu
+"University of California, Davis",28,True,http://www.ucdavis.edu
+"University of California, San Diego",28,True,http://www.ucsd.edu/
+University of Florida,28,True,//www.ufl.edu
+University of Southern California,28,True,http://www.usc.edu/
+University of Texas at Austin,32,False,http://www.utexas.edu
+Georgia Institute of Technology,33,True,http://admission.gatech.edu
+"University of California, Irvine",33,True,http://www.uci.edu
+New York University,35,True,http://www.nyu.edu
+"University of California, Santa Barbara",35,True,https://www.ucsb.edu/
+University of Illinois Urbana-Champaign,35,True,http://illinois.edu
+University of Wisconsin--Madison,35,True,http://www.wisc.edu
+Boston College,39,False,http://www.bc.edu
+Rutgers University--New Brunswick,40,True,https://newbrunswick.rutgers.edu
+Tufts University,40,True,http://www.tufts.edu
+University of Washington,40,True,http://www.washington.edu
+Boston University,43,True,http://www.bu.edu
+The Ohio State University,43,True,http://www.osu.edu
+Purdue University--Main Campus,43,True,http://www.purdue.edu
+"University of Maryland, College Park",46,False,https://www.umd.edu/
+Lehigh University,47,True,https://www1.lehigh.edu
+Texas A&M University,47,True,http://www.tamu.edu
+University of Georgia,47,True,http://www.uga.edu
+University of Rochester,47,True,https://www.rochester.edu
+Virginia Tech,47,True,//www.vt.edu
+Wake Forest University,47,True,http://www.wfu.edu
+Case Western Reserve University,53,True,http://www.case.edu
+Florida State University,53,True,http://www.fsu.edu
+Northeastern University,53,True,http://www.northeastern.edu/
+"University of Minnesota, Twin Cities",53,True,https://twin-cities.umn.edu/
+William & Mary,53,True,http://www.wm.edu
+Stony Brook University--SUNY,58,True,http://www.stonybrook.edu
+University of Connecticut,58,True,http://www.uconn.edu
+Brandeis University,60,True,http://www.brandeis.edu
+Michigan State University,60,True,http://www.msu.edu/
+North Carolina State University,60,True,http://admissions.ncsu.edu
+The Pennsylvania State University--University Park,60,True,http://www.psu.edu
+Rensselaer Polytechnic Institute,60,True,http://www.rpi.edu
+Santa Clara University,60,True,http://www.scu.edu
+"University of California, Merced",60,True,http://www.ucmerced.edu
+George Washington University,67,True,http://www.gwu.edu
+Syracuse University,67,True,https://www.syracuse.edu
+University of Massachusetts--Amherst,67,True,http://www.umass.edu
+University of Miami,67,True,http://www.miami.edu
+University of Pittsburgh,67,True,http://www.pitt.edu/
+Villanova University,67,True,http://www.villanova.edu
+Binghamton University--SUNY,73,True,http://www.binghamton.edu
+Indiana University--Bloomington,73,True,https://www.indiana.edu
+Tulane University,73,True,https://tulane.edu
+Colorado School of Mines,76,True,http://www.mines.edu
+Pepperdine University,76,True,https://www.pepperdine.edu
+Stevens Institute of Technology,76,True,http://www.stevens.edu
+University at Buffalo--SUNY,76,True,http://www.buffalo.edu
+"University of California, Riverside",76,True,http://www.ucr.edu
+University of Delaware,76,True,http://www.udel.edu/
+Rutgers University--Newark,82,True,http://www.newark.rutgers.edu/
+"University of California, Santa Cruz",82,True,http://www.ucsc.edu
+University of Illinois--Chicago,82,True,http://www.uic.edu
+Worcester Polytechnic Institute,82,True,https://www.wpi.edu/
+Clemson University,86,True,http://www.clemson.edu
+Marquette University,86,True,http://www.marquette.edu
+New Jersey Institute of Technology,86,True,http://www.njit.edu
+Fordham University,89,True,http://www.fordham.edu
+Southern Methodist University,89,True,http://www.smu.edu
+Temple University,89,True,http://www.temple.edu
+University of South Florida,89,True,http://www.usf.edu
+Auburn University,93,True,http://www.auburn.edu
+Baylor University,93,True,http://www.baylor.edu
+Gonzaga University,93,True,https://www.gonzaga.edu
+Loyola Marymount University,93,True,http://www.lmu.edu
+University of Iowa,93,True,http://www.uiowa.edu
+Drexel University,98,True,http://www.drexel.edu
+Illinois Institute of Technology,98,True,//www.iit.edu
+Rochester Institute of Technology,98,True,http://www.rit.edu
+Rutgers University--Camden,98,True,https://www.camden.rutgers.edu/
+Texas Christian University,98,True,http://www.tcu.edu
+University of Oregon,98,True,https://www.uoregon.edu
+University of San Diego,98,True,http://www.SanDiego.edu
+American University,105,True,http://www.american.edu
+Arizona State University,105,True,//www.asu.edu
+California State University--Long Beach,105,True,http://www.csulb.edu
+CUNY--City College,105,True,https://www.ccny.cuny.edu/
+George Mason University,105,True,https://www2.gmu.edu
+Saint Louis University,105,True,http://www.slu.edu
+San Diego State University,105,True,http://www.sdsu.edu
+University of Colorado Boulder,105,True,http://www.colorado.edu
+"University of Tennessee, Knoxville",105,True,http://utk.edu
+Yeshiva University,105,True,http://www.yu.edu
+Brigham Young University,115,True,http://www.byu.edu
+Howard University,115,True,http://www.howard.edu
+Iowa State University of Science and Technology,115,True,http://www.iastate.edu
+SUNY College of Environmental Science and Forestry,115,True,http://www.esf.edu
+University of Arizona,115,True,https://www.arizona.edu
+University of New Hampshire,115,True,https://www.unh.edu
+University of San Francisco,115,True,http://www.usfca.edu
+The University of Texas at Dallas,115,True,https://www.utdallas.edu/
+University of Utah,115,True,https://www.utah.edu/
+Creighton University,124,True,http://www.creighton.edu
+Fairfield University,124,True,http://www.fairfield.edu
+Florida International University,124,True,http://www.fiu.edu
+James Madison University,124,True,http://www.jmu.edu
+University of Central Florida,124,True,http://www.ucf.edu
+University of Denver,124,True,http://www.du.edu
+University of Missouri,124,True,http://www.missouri.edu
+University of Oklahoma,124,True,http://www.ou.edu
+University of South Carolina,124,True,http://www.sc.edu
+California State University--Fullerton,133,True,http://www.fullerton.edu
+Chapman University,133,True,https://www.chapman.edu
+Elon University,133,True,http://www.elon.edu
+Miami University--Oxford,133,True,http://www.MiamiOH.edu
+University at Albany--SUNY,133,True,https://www.albany.edu
+University of Dayton,133,True,http://www.udayton.edu
+University of Houston,133,True,http://www.uh.edu
+"University of Maryland, Baltimore County",133,True,http://www.umbc.edu
+University of Vermont,133,True,http://www.uvm.edu
+Clarkson University,142,True,https://www.clarkson.edu/
+Clark University,142,True,http://www.clarku.edu
+Loyola University Chicago,142,True,http://www.luc.edu
+Oregon State University,142,True,http://oregonstate.edu
+Thomas Jefferson University,142,True,http://www.jefferson.edu/
+University of Alabama at Birmingham,142,True,https://www.uab.edu
+University of Cincinnati,142,True,http://www.uc.edu
+University of the Pacific,142,True,http://www.pacific.edu
+Virginia Commonwealth University,142,True,https://www.vcu.edu
