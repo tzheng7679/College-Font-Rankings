@@ -1,0 +1,151 @@
+,institution.displayName,ranking.sortRank,ranking.isTied,Visit School Website,Serif,Sans-Serif,Not Avaliable
+0,Princeton University,1,False,http://www.princeton.edu,6554,73131,0
+1,Massachusetts Institute of Technology,2,False,http://web.mit.edu/,2802,27482,0
+2,Harvard University,3,True,http://www.harvard.edu/,3651,0,37947
+3,Stanford University,3,True,http://www.stanford.edu,5542,41438,0
+4,Yale University,5,False,http://www.yale.edu/,1841,52133,47
+5,University of Pennsylvania,6,False,http://www.upenn.edu,5005,30687,0
+6,California Institute of Technology,7,True,http://www.caltech.edu,0,48163,0
+7,Duke University,7,True,http://www.duke.edu/,2622,16377,0
+8,Brown University,9,True,https://www.brown.edu,36488,929,0
+9,Johns Hopkins University,9,True,http://www.jhu.edu,2827,24230,0
+10,Northwestern University,9,True,http://www.northwestern.edu,4690,13885,0
+11,Columbia University,12,True,http://www.columbia.edu,0,62236,0
+12,Cornell University,12,True,http://www.cornell.edu,619,12132,0
+13,University of Chicago,12,True,http://www.uchicago.edu,90,7356,0
+14,"University of California, Berkeley",15,True,https://www.berkeley.edu,1289,8979,0
+15,"University of California, Los Angeles",15,True,http://www.ucla.edu/,6601,64020,0
+16,Rice University,17,False,http://www.rice.edu,31889,2433,97
+17,Dartmouth College,18,True,http://www.dartmouth.edu,1143,21333,0
+18,Vanderbilt University,18,True,http://www.vanderbilt.edu,7079,43018,68
+19,University of Notre Dame,20,False,http://www.nd.edu,4313,21854,0
+20,University of Michigan--Ann Arbor,21,False,//umich.edu,3546,28158,52
+21,Georgetown University,22,True,http://www.georgetown.edu,13156,100446,63
+22,University of North Carolina at Chapel Hill,22,True,http://www.unc.edu,20,804,11
+23,Carnegie Mellon University,24,True,http://www.cmu.edu,16,11477,0
+24,Emory University,24,True,http://www.emory.edu,301,4430,0
+25,University of Virginia,24,True,http://www.virginia.edu,15,15220,0
+26,Washington University in St. Louis,24,True,https://www.wustl.edu,4923,32275,0
+27,"University of California, Davis",28,True,http://www.ucdavis.edu,0,61665,0
+28,"University of California, San Diego",28,True,http://www.ucsd.edu/,0,41653,0
+29,University of Florida,28,True,//www.ufl.edu,0,18182,2369
+30,University of Southern California,28,True,http://www.usc.edu/,81761,3479,33
+31,University of Texas at Austin,32,False,http://www.utexas.edu,0,42744,39
+32,Georgia Institute of Technology,33,True,http://admission.gatech.edu,0,19371,0
+33,"University of California, Irvine",33,True,http://www.uci.edu,0,56301,0
+34,New York University,35,True,http://www.nyu.edu,1378,9863,557
+35,"University of California, Santa Barbara",35,True,https://www.ucsb.edu/,73,47053,0
+36,University of Illinois Urbana-Champaign,35,True,http://illinois.edu,1128,19266,0
+37,University of Wisconsin--Madison,35,True,http://www.wisc.edu,263,1541,0
+38,Boston College,39,False,http://www.bc.edu,145,38239,46
+39,Rutgers University--New Brunswick,40,True,https://newbrunswick.rutgers.edu,3908,49715,33
+40,Tufts University,40,True,http://www.tufts.edu,278,39950,0
+41,University of Washington,40,True,http://www.washington.edu,0,5360,0
+42,Boston University,43,True,http://www.bu.edu,1599,4209,5925
+43,The Ohio State University,43,True,http://www.osu.edu,883,40481,0
+44,Purdue University--Main Campus,43,True,http://www.purdue.edu,2452,22000,0
+45,"University of Maryland, College Park",46,False,https://www.umd.edu/,196,55641,0
+46,Lehigh University,47,True,https://www1.lehigh.edu,941,95366,219
+47,Texas A&M University,47,True,http://www.tamu.edu,0,56768,0
+48,University of Georgia,47,True,http://www.uga.edu,4370,722,0
+49,University of Rochester,47,True,https://www.rochester.edu,3197,22517,0
+50,Virginia Tech,47,True,//www.vt.edu,59,38254,0
+51,Wake Forest University,47,True,http://www.wfu.edu,4117,29405,0
+52,Case Western Reserve University,53,True,http://www.case.edu,0,12,4681
+53,Florida State University,53,True,http://www.fsu.edu,0,47424,0
+54,Northeastern University,53,True,http://www.northeastern.edu/,1294,7331,51
+55,"University of Minnesota, Twin Cities",53,True,https://twin-cities.umn.edu/,3326,35683,0
+56,William & Mary,53,True,http://www.wm.edu,49,11095,0
+57,Stony Brook University--SUNY,58,True,http://www.stonybrook.edu,775,17152,0
+58,University of Connecticut,58,True,http://www.uconn.edu,1528,18413,0
+59,Brandeis University,60,True,http://www.brandeis.edu,8230,12153,0
+60,Michigan State University,60,True,http://www.msu.edu/,0,46559,0
+61,North Carolina State University,60,True,http://admissions.ncsu.edu,836,22050,68
+62,The Pennsylvania State University--University Park,60,True,http://www.psu.edu,2889,20596,0
+63,Rensselaer Polytechnic Institute,60,True,http://www.rpi.edu,0,19598,0
+64,Santa Clara University,60,True,http://www.scu.edu,0,30572,726
+65,"University of California, Merced",60,True,http://www.ucmerced.edu,0,66002,4
+66,George Washington University,67,True,http://www.gwu.edu,772,111333,318
+67,Syracuse University,67,True,https://www.syracuse.edu,0,21453,0
+68,University of Massachusetts--Amherst,67,True,http://www.umass.edu,4921,87690,0
+69,University of Miami,67,True,http://www.miami.edu,0,35867,207
+70,University of Pittsburgh,67,True,http://www.pitt.edu/,29691,9778,0
+71,Villanova University,67,True,http://www.villanova.edu,0,118906,0
+72,Binghamton University--SUNY,73,True,http://www.binghamton.edu,1686,13638,55
+73,Indiana University--Bloomington,73,True,https://www.indiana.edu,211,11958,0
+74,Tulane University,73,True,https://tulane.edu,106,41249,656
+75,Colorado School of Mines,76,True,http://www.mines.edu,3707,45992,0
+76,Pepperdine University,76,True,https://www.pepperdine.edu,3807,31042,19
+77,Stevens Institute of Technology,76,True,http://www.stevens.edu,4111,1303,0
+78,University at Buffalo--SUNY,76,True,http://www.buffalo.edu,5873,0,24
+79,"University of California, Riverside",76,True,http://www.ucr.edu,4714,92775,132
+80,University of Delaware,76,True,http://www.udel.edu/,3398,34795,5691
+81,Rutgers University--Newark,82,True,http://www.newark.rutgers.edu/,5990,102059,33
+82,"University of California, Santa Cruz",82,True,http://www.ucsc.edu,4149,30509,0
+83,University of Illinois--Chicago,82,True,http://www.uic.edu,0,0,0
+84,Worcester Polytechnic Institute,82,True,https://www.wpi.edu/,3227,54906,0
+85,Clemson University,86,True,http://www.clemson.edu,135,30586,257
+86,Marquette University,86,True,http://www.marquette.edu,539,35331,193
+87,New Jersey Institute of Technology,86,True,http://www.njit.edu,0,26772,0
+88,Fordham University,89,True,http://www.fordham.edu,0,40343,0
+89,Southern Methodist University,89,True,http://www.smu.edu,4934,44866,0
+90,Temple University,89,True,http://www.temple.edu,45656,67210,0
+91,University of South Florida,89,True,http://www.usf.edu,0,30213,0
+92,Auburn University,93,True,http://www.auburn.edu,3570,25541,0
+93,Baylor University,93,True,http://www.baylor.edu,65380,5565,12
+94,Gonzaga University,93,True,https://www.gonzaga.edu,439,39467,40
+95,Loyola Marymount University,93,True,http://www.lmu.edu,5274,52582,0
+96,University of Iowa,93,True,http://www.uiowa.edu,549,40284,0
+97,Drexel University,98,True,http://www.drexel.edu,7837,59386,0
+98,Illinois Institute of Technology,98,True,//www.iit.edu,3516,35860,57
+99,Rochester Institute of Technology,98,True,http://www.rit.edu,,,
+100,Rutgers University--Camden,98,True,https://www.camden.rutgers.edu/,6608,127381,33
+101,Texas Christian University,98,True,http://www.tcu.edu,99,19490,0
+102,University of Oregon,98,True,https://www.uoregon.edu,497,37052,0
+103,University of San Diego,98,True,http://www.SanDiego.edu,15363,3010,0
+104,American University,105,True,http://www.american.edu,14,39278,290
+105,Arizona State University,105,True,//www.asu.edu,4264,69087,0
+106,California State University--Long Beach,105,True,http://www.csulb.edu,254,41136,0
+107,CUNY--City College,105,True,https://www.ccny.cuny.edu/,0,64569,132
+108,George Mason University,105,True,https://www2.gmu.edu,0,55301,0
+109,Saint Louis University,105,True,http://www.slu.edu,14370,1919,293
+110,San Diego State University,105,True,http://www.sdsu.edu,0,4206,0
+111,University of Colorado Boulder,105,True,http://www.colorado.edu,5047,110726,0
+112,"University of Tennessee, Knoxville",105,True,http://utk.edu,0,25484,0
+113,Yeshiva University,105,True,http://www.yu.edu,320,74010,119
+114,Brigham Young University,115,True,http://www.byu.edu,0,23639,0
+115,Howard University,115,True,http://www.howard.edu,0,903,9185
+116,Iowa State University of Science and Technology,115,True,http://www.iastate.edu,3463,49294,0
+117,SUNY College of Environmental Science and Forestry,115,True,http://www.esf.edu,1606,11871,0
+118,University of Arizona,115,True,https://www.arizona.edu,6,115034,0
+119,University of New Hampshire,115,True,https://www.unh.edu,0,21656,0
+120,University of San Francisco,115,True,http://www.usfca.edu,242359,2238,0
+121,The University of Texas at Dallas,115,True,https://www.utdallas.edu/,0,37920,0
+122,University of Utah,115,True,https://www.utah.edu/,1537,12360,35
+123,Creighton University,124,True,http://www.creighton.edu,975,0,6803
+124,Fairfield University,124,True,http://www.fairfield.edu,6072,44733,0
+125,Florida International University,124,True,http://www.fiu.edu,5096,16693,0
+126,James Madison University,124,True,http://www.jmu.edu,2091,26149,3105
+127,University of Central Florida,124,True,http://www.ucf.edu,0,54729,0
+128,University of Denver,124,True,http://www.du.edu,5583,56050,0
+129,University of Missouri,124,True,http://www.missouri.edu,0,41406,756
+130,University of Oklahoma,124,True,http://www.ou.edu,80,20436,59
+131,University of South Carolina,124,True,http://www.sc.edu,0,19205,9
+132,California State University--Fullerton,133,True,http://www.fullerton.edu,,,
+133,Chapman University,133,True,https://www.chapman.edu,0,13876,370
+134,Elon University,133,True,http://www.elon.edu,11,38951,0
+135,Miami University--Oxford,133,True,http://www.MiamiOH.edu,19660,2229,45
+136,University at Albany--SUNY,133,True,https://www.albany.edu,0,22103,0
+137,University of Dayton,133,True,http://www.udayton.edu,24970,3311,8
+138,University of Houston,133,True,http://www.uh.edu,0,34064,0
+139,"University of Maryland, Baltimore County",133,True,http://www.umbc.edu,3173,36709,0
+140,University of Vermont,133,True,http://www.uvm.edu,27,4838,41
+141,Clarkson University,142,True,https://www.clarkson.edu/,1609,19050,0
+142,Clark University,142,True,http://www.clarku.edu,5108,64333,0
+143,Loyola University Chicago,142,True,http://www.luc.edu,2823,17827,182
+144,Oregon State University,142,True,http://oregonstate.edu,2415,47336,0
+145,Thomas Jefferson University,142,True,http://www.jefferson.edu/,0,93832,300
+146,University of Alabama at Birmingham,142,True,https://www.uab.edu,1411,28598,0
+147,University of Cincinnati,142,True,http://www.uc.edu,16115,21470,0
+148,University of the Pacific,142,True,http://www.pacific.edu,0,8425,54089
+149,Virginia Commonwealth University,142,True,https://www.vcu.edu,0,13966,96
