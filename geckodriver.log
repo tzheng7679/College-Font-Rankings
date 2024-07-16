@@ -1221,8 +1221,8 @@ Read port: 64661
 console.error: ({})
 1721002220481	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1721002250334	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1721002661816	geckodriver	INFO	Listening on 127.0.0.1:65165
-1721002665358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofilez6girk"
+1721088650148	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofilez6girk"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -1860,8 +1860,8 @@ console.error: ({})
 1721003405011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 console.error: "buildList failed: " ({})
 console.error: "buildList failed: " ({})
-r	INFO	Listening on 127.0.0.1:53131
-1721003706598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofile8Sh2dI"
+1721089729009	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+less" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofile8Sh2dI"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -1890,9 +1890,8 @@ console.error: ({})
 1721003761780	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 1721003838729	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 console.error: "buildList failed: " ({})
-n 127.0.0.1:53397
-1721003931758	geckodriver	INFO	Listening on 127.0.0.1:53530
-1721003934802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileerr7Qz"
+1721090162220	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+irefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileerr7Qz"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -1924,9 +1923,8 @@ Read port: 53710
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.error: ({})
 1721003991590	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-e" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileTak1m9"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1721090391767	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+onsole.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1721003975057	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -1951,9 +1949,8 @@ Read port: 53808
 console.error: ({})
 1721004014223	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.error: "buildList failed: " ({})
- "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileYIk71W"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1721090414159	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+reference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1721003993960	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -2671,8 +2668,8 @@ Read port: 57972
 console.error: ({})
 1721004735570	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1721004765541	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1721005038223	geckodriver	INFO	Listening on 127.0.0.1:58306
-1721005041331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileyeiGCw"
+1721091166556	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofileyeiGCw"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -8091,8 +8088,9 @@ Read port: 56414
 console.error: ({})
 console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofilevKE8Ag\\storage\\permanent\\chrome\\idb\\2823318777ntouromlalnodry--naod.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
 1721029172919	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1721029243849	geckodriver	INFO	Listening on 127.0.0.1:56562
-1721029246845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofilehKKHem"
+Exiting due to channel error.
+Exiting due to channel error.
+21029246845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TONYZH~1\\AppData\\Local\\Temp\\rust_mozprofilehKKHem"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
